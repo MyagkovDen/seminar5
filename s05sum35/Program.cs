@@ -10,7 +10,7 @@ FillArray(array);
 
 int countEven = CountEvenNumbers(array);
 
-Console.WriteLine($"{String.Join(" ", array)} -> {countEven}");
+Console.WriteLine($"[{String.Join(" ", array)}] -> {countEven}");
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
